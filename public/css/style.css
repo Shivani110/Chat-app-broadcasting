@@ -1,0 +1,14 @@
+.container{
+     margin-top: 80px;
+     width: 200px;
+}
+
+.content.form-head h4{
+     text-align: center;
+}
+
+.form-body{
+     border: 1px solid black;
+     width: 40rem;
+     padding: 20px;
+}
